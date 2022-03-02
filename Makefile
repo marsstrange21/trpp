@@ -1,3 +1,4 @@
+//It's a comment
 PROG=ytfzf
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
